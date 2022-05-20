@@ -1,0 +1,360 @@
+"{'number': '1', 'time': 0, 'speed': '53.33', 'lane': '2'}","{'number': '2', 'time': 0, 'speed': '56.95', 'lane': '3'}"
+
+"{'number': '3', 'time': 0, 'speed': '56.95', 'lane': '1'}"
+"{'number': '4', 'time': 0, 'speed': '49.40', 'lane': '3'}"
+"{'number': '5', 'time': 0, 'speed': '55.97', 'lane': '1'}","{'number': '6', 'time': 0, 'speed': '52.68', 'lane': '2'}"
+"{'number': '7', 'time': 0, 'speed': '52.51', 'lane': '2'}","{'number': '8', 'time': 0, 'speed': '50.34', 'lane': '3'}","{'number': '9', 'time': 0, 'speed': '31.42', 'lane': '5'}"
+"{'number': '10', 'time': 0, 'speed': '50.44', 'lane': '1'}"
+"{'number': '11', 'time': 0, 'speed': '50.68', 'lane': '3'}"
+"{'number': '12', 'time': 0, 'speed': '49.66', 'lane': '2'}"
+
+
+"{'number': '13', 'time': 0, 'speed': '32.78', 'lane': '5'}"
+"{'number': '14', 'time': 0, 'speed': '52.22', 'lane': '1'}","{'number': '15', 'time': 0, 'speed': '51.74', 'lane': '2'}","{'number': '16', 'time': 0, 'speed': '53.17', 'lane': '3'}"
+
+"{'number': '17', 'time': 0, 'speed': '53.41', 'lane': '1'}","{'number': '18', 'time': 0, 'speed': '54.88', 'lane': '3'}","{'number': '19', 'time': 0, 'speed': '31.68', 'lane': '4'}","{'number': '20', 'time': 0, 'speed': '40.37', 'lane': '5'}"
+"{'number': '21', 'time': 0, 'speed': '48.78', 'lane': '1'}","{'number': '22', 'time': 0, 'speed': '49.31', 'lane': '2'}","{'number': '23', 'time': 0, 'speed': '54.04', 'lane': '3'}","{'number': '24', 'time': 0, 'speed': '49.90', 'lane': '5'}"
+"{'number': '25', 'time': 0, 'speed': '48.00', 'lane': '1'}","{'number': '26', 'time': 0, 'speed': '49.32', 'lane': '2'}"
+"{'number': '27', 'time': 0, 'speed': '53.91', 'lane': '3'}","{'number': '28', 'time': 0, 'speed': '41.77', 'lane': '4'}","{'number': '29', 'time': 0, 'speed': '48.04', 'lane': '5'}"
+"{'number': '30', 'time': 0, 'speed': '47.04', 'lane': '1'}","{'number': '31', 'time': 0, 'speed': '47.99', 'lane': '2'}","{'number': '32', 'time': 0, 'speed': '52.90', 'lane': '3'}","{'number': '33', 'time': 0, 'speed': '42.24', 'lane': '4'}"
+"{'number': '34', 'time': 0, 'speed': '46.37', 'lane': '1'}","{'number': '35', 'time': 0, 'speed': '47.48', 'lane': '2'}","{'number': '36', 'time': 0, 'speed': '48.47', 'lane': '3'}"
+
+"{'number': '37', 'time': 0, 'speed': '45.74', 'lane': '1'}","{'number': '38', 'time': 0, 'speed': '46.93', 'lane': '2'}","{'number': '39', 'time': 0, 'speed': '50.70', 'lane': '3'}","{'number': '40', 'time': 0, 'speed': '45.16', 'lane': '5'}"
+"{'number': '41', 'time': 0, 'speed': '46.40', 'lane': '2'}"
+"{'number': '42', 'time': 0, 'speed': '46.99', 'lane': '1'}"
+"{'number': '43', 'time': 0, 'speed': '53.90', 'lane': '3'}","{'number': '44', 'time': 0, 'speed': '34.35', 'lane': '4'}"
+"{'number': '45', 'time': 0, 'speed': '45.79', 'lane': '5'}"
+
+"{'number': '46', 'time': 0, 'speed': '52.32', 'lane': '1'}","{'number': '47', 'time': 0, 'speed': '48.09', 'lane': '2'}"
+"{'number': '48', 'time': 0, 'speed': '55.51', 'lane': '3'}"
+"{'number': '49', 'time': 0, 'speed': '48.27', 'lane': '1'}","{'number': '50', 'time': 0, 'speed': '48.97', 'lane': '2'}"
+"{'number': '51', 'time': 0, 'speed': '30.34', 'lane': '4'}"
+
+
+"{'number': '52', 'time': 0, 'speed': '49.87', 'lane': '1'}","{'number': '53', 'time': 0, 'speed': '57.11', 'lane': '3'}"
+"{'number': '54', 'time': 0, 'speed': '51.43', 'lane': '2'}"
+"{'number': '55', 'time': 0, 'speed': '48.61', 'lane': '3'}"
+"{'number': '56', 'time': 0, 'speed': '53.48', 'lane': '1'}"
+"{'number': '57', 'time': 0, 'speed': '55.45', 'lane': '2'}","{'number': '58', 'time': 0, 'speed': '49.54', 'lane': '3'}","{'number': '59', 'time': 0, 'speed': '29.26', 'lane': '5'}"
+"{'number': '60', 'time': 0, 'speed': '50.14', 'lane': '1'}","{'number': '61', 'time': 0, 'speed': '29.74', 'lane': '4'}"
+"{'number': '62', 'time': 0, 'speed': '49.98', 'lane': '2'}"
+"{'number': '63', 'time': 0, 'speed': '36.59', 'lane': '5'}"
+"{'number': '64', 'time': 0, 'speed': '50.87', 'lane': '1'}","{'number': '65', 'time': 0, 'speed': '50.93', 'lane': '2'}","{'number': '66', 'time': 0, 'speed': '52.23', 'lane': '3'}"
+"{'number': '67', 'time': 0, 'speed': '50.52', 'lane': '3'}"
+
+"{'number': '68', 'time': 0, 'speed': '48.86', 'lane': '1'}","{'number': '69', 'time': 0, 'speed': '51.30', 'lane': '2'}"
+"{'number': '70', 'time': 0, 'speed': '48.60', 'lane': '1'}","{'number': '71', 'time': 0, 'speed': '48.12', 'lane': '3'}"
+"{'number': '72', 'time': 0, 'speed': '50.53', 'lane': '2'}"
+"{'number': '73', 'time': 0, 'speed': '36.96', 'lane': '5'}"
+"{'number': '74', 'time': 0, 'speed': '49.57', 'lane': '1'}","{'number': '75', 'time': 0, 'speed': '48.55', 'lane': '3'}"
+
+"{'number': '76', 'time': 0, 'speed': '51.16', 'lane': '1'}","{'number': '77', 'time': 0, 'speed': '50.98', 'lane': '2'}","{'number': '78', 'time': 0, 'speed': '51.09', 'lane': '3'}"
+
+
+
+"{'number': '79', 'time': 0, 'speed': '54.02', 'lane': '2'}","{'number': '80', 'time': 0, 'speed': '55.24', 'lane': '3'}"
+"{'number': '81', 'time': 0, 'speed': '53.14', 'lane': '1'}"
+"{'number': '82', 'time': 0, 'speed': '56.06', 'lane': '3'}"
+"{'number': '83', 'time': 0, 'speed': '54.65', 'lane': '1'}","{'number': '84', 'time': 0, 'speed': '55.40', 'lane': '2'}","{'number': '85', 'time': 0, 'speed': '11.22', 'lane': '4'}"
+"{'number': '86', 'time': 0, 'speed': '50.17', 'lane': '2'}","{'number': '87', 'time': 0, 'speed': '55.76', 'lane': '3'}"
+"{'number': '88', 'time': 0, 'speed': '48.66', 'lane': '1'}","{'number': '89', 'time': 0, 'speed': '53.82', 'lane': '3'}"
+"{'number': '90', 'time': 0, 'speed': '52.16', 'lane': '2'}","{'number': '91', 'time': 0, 'speed': '29.72', 'lane': '5'}"
+"{'number': '92', 'time': 0, 'speed': '23.33', 'lane': '4'}"
+"{'number': '93', 'time': 0, 'speed': '40.34', 'lane': '5'}"
+"{'number': '94', 'time': 0, 'speed': '50.38', 'lane': '1'}"
+"{'number': '95', 'time': 0, 'speed': '48.68', 'lane': '2'}","{'number': '96', 'time': 0, 'speed': '54.90', 'lane': '3'}","{'number': '97', 'time': 0, 'speed': '24.62', 'lane': '4'}"
+"{'number': '98', 'time': 0, 'speed': '52.95', 'lane': '1'}","{'number': '99', 'time': 0, 'speed': '54.78', 'lane': '3'}"
+"{'number': '100', 'time': 0, 'speed': '49.71', 'lane': '2'}"
+"{'number': '101', 'time': 0, 'speed': '48.40', 'lane': '1'}","{'number': '102', 'time': 0, 'speed': '50.88', 'lane': '3'}","{'number': '103', 'time': 0, 'speed': '39.23', 'lane': '5'}"
+"{'number': '104', 'time': 0, 'speed': '48.17', 'lane': '1'}","{'number': '105', 'time': 0, 'speed': '51.32', 'lane': '2'}","{'number': '106', 'time': 0, 'speed': '50.88', 'lane': '3'}"
+
+"{'number': '107', 'time': 0, 'speed': '48.04', 'lane': '1'}","{'number': '108', 'time': 0, 'speed': '48.48', 'lane': '2'}"
+"{'number': '109', 'time': 0, 'speed': '48.34', 'lane': '2'}","{'number': '110', 'time': 0, 'speed': '51.57', 'lane': '3'}"
+"{'number': '111', 'time': 0, 'speed': '49.83', 'lane': '1'}","{'number': '112', 'time': 0, 'speed': '53.27', 'lane': '3'}","{'number': '113', 'time': 0, 'speed': '39.62', 'lane': '5'}"
+"{'number': '114', 'time': 0, 'speed': '49.19', 'lane': '2'}"
+"{'number': '115', 'time': 0, 'speed': '50.89', 'lane': '1'}","{'number': '116', 'time': 0, 'speed': '50.22', 'lane': '3'}"
+"{'number': '117', 'time': 0, 'speed': '49.21', 'lane': '2'}"
+
+"{'number': '118', 'time': 0, 'speed': '49.65', 'lane': '1'}","{'number': '119', 'time': 0, 'speed': '50.73', 'lane': '3'}"
+"{'number': '120', 'time': 0, 'speed': '49.56', 'lane': '1'}","{'number': '121', 'time': 0, 'speed': '51.00', 'lane': '2'}"
+"{'number': '122', 'time': 0, 'speed': '51.33', 'lane': '3'}"
+"{'number': '123', 'time': 0, 'speed': '50.39', 'lane': '1'}","{'number': '124', 'time': 0, 'speed': '52.63', 'lane': '2'}","{'number': '125', 'time': 0, 'speed': '48.26', 'lane': '3'}"
+"{'number': '126', 'time': 0, 'speed': '49.33', 'lane': '2'}"
+"{'number': '127', 'time': 0, 'speed': '49.19', 'lane': '1'}"
+
+"{'number': '128', 'time': 0, 'speed': '49.75', 'lane': '3'}"
+"{'number': '129', 'time': 0, 'speed': '51.05', 'lane': '2'}","{'number': '130', 'time': 0, 'speed': '12.13', 'lane': '4'}","{'number': '131', 'time': 0, 'speed': '12.02', 'lane': '5'}"
+"{'number': '132', 'time': 0, 'speed': '50.63', 'lane': '1'}","{'number': '133', 'time': 0, 'speed': '53.65', 'lane': '3'}"
+"{'number': '134', 'time': 0, 'speed': '52.62', 'lane': '2'}"
+"{'number': '135', 'time': 0, 'speed': '53.29', 'lane': '1'}","{'number': '136', 'time': 0, 'speed': '29.09', 'lane': '4'}","{'number': '137', 'time': 0, 'speed': '26.40', 'lane': '5'}"
+
+"{'number': '138', 'time': 0, 'speed': '57.21', 'lane': '3'}","{'number': '139', 'time': 0, 'speed': '30.74', 'lane': '4'}"
+"{'number': '140', 'time': 0, 'speed': '48.44', 'lane': '2'}"
+
+
+
+"{'number': '141', 'time': 0, 'speed': '49.83', 'lane': '1'}"
+
+"{'number': '142', 'time': 0, 'speed': '50.24', 'lane': '2'}","{'number': '143', 'time': 0, 'speed': '54.99', 'lane': '3'}","{'number': '144', 'time': 0, 'speed': '35.33', 'lane': '5'}"
+"{'number': '145', 'time': 0, 'speed': '50.66', 'lane': '1'}"
+
+"{'number': '146', 'time': 0, 'speed': '53.31', 'lane': '2'}","{'number': '147', 'time': 0, 'speed': '55.03', 'lane': '3'}"
+"{'number': '148', 'time': 0, 'speed': '52.43', 'lane': '1'}","{'number': '149', 'time': 0, 'speed': '48.97', 'lane': '3'}","{'number': '150', 'time': 0, 'speed': '37.75', 'lane': '5'}"
+"{'number': '151', 'time': 0, 'speed': '48.23', 'lane': '1'}","{'number': '152', 'time': 0, 'speed': '53.58', 'lane': '2'}"
+"{'number': '153', 'time': 0, 'speed': '38.55', 'lane': '5'}"
+"{'number': '154', 'time': 0, 'speed': '54.48', 'lane': '2'}","{'number': '155', 'time': 0, 'speed': '48.22', 'lane': '3'}"
+"{'number': '156', 'time': 0, 'speed': '37.60', 'lane': '5'}"
+"{'number': '157', 'time': 0, 'speed': '51.82', 'lane': '1'}","{'number': '158', 'time': 0, 'speed': '39.58', 'lane': '5'}"
+
+"{'number': '159', 'time': 0, 'speed': '49.95', 'lane': '2'}","{'number': '160', 'time': 0, 'speed': '41.75', 'lane': '5'}"
+"{'number': '161', 'time': 0, 'speed': '49.44', 'lane': '3'}"
+"{'number': '162', 'time': 0, 'speed': '52.29', 'lane': '1'}","{'number': '163', 'time': 0, 'speed': '52.17', 'lane': '2'}","{'number': '164', 'time': 0, 'speed': '43.57', 'lane': '5'}"
+"{'number': '165', 'time': 0, 'speed': '43.24', 'lane': '5'}"
+"{'number': '166', 'time': 0, 'speed': '51.62', 'lane': '3'}"
+"{'number': '167', 'time': 0, 'speed': '51.18', 'lane': '1'}","{'number': '168', 'time': 0, 'speed': '50.92', 'lane': '2'}","{'number': '169', 'time': 0, 'speed': '48.14', 'lane': '3'}","{'number': '170', 'time': 0, 'speed': '11.81', 'lane': '4'}"
+"{'number': '171', 'time': 0, 'speed': '50.88', 'lane': '1'}"
+"{'number': '172', 'time': 0, 'speed': '50.68', 'lane': '2'}","{'number': '173', 'time': 0, 'speed': '48.09', 'lane': '3'}"
+"{'number': '174', 'time': 0, 'speed': '50.37', 'lane': '1'}"
+"{'number': '175', 'time': 0, 'speed': '31.29', 'lane': '5'}"
+
+"{'number': '176', 'time': 0, 'speed': '49.08', 'lane': '2'}"
+
+"{'number': '177', 'time': 0, 'speed': '51.05', 'lane': '3'}"
+"{'number': '178', 'time': 0, 'speed': '54.79', 'lane': '1'}"
+"{'number': '179', 'time': 0, 'speed': '48.15', 'lane': '2'}"
+"{'number': '180', 'time': 0, 'speed': '56.29', 'lane': '1'}","{'number': '181', 'time': 0, 'speed': '48.52', 'lane': '2'}","{'number': '182', 'time': 0, 'speed': '50.38', 'lane': '3'}"
+"{'number': '183', 'time': 0, 'speed': '57.10', 'lane': '1'}","{'number': '184', 'time': 0, 'speed': '50.61', 'lane': '3'}","{'number': '185', 'time': 0, 'speed': '22.78', 'lane': '5'}"
+"{'number': '186', 'time': 0, 'speed': '47.73', 'lane': '2'}","{'number': '187', 'time': 0, 'speed': '49.51', 'lane': '3'}"
+"{'number': '188', 'time': 0, 'speed': '56.94', 'lane': '1'}","{'number': '189', 'time': 0, 'speed': '46.95', 'lane': '2'}"
+"{'number': '190', 'time': 0, 'speed': '55.81', 'lane': '1'}","{'number': '191', 'time': 0, 'speed': '48.83', 'lane': '3'}"
+"{'number': '192', 'time': 0, 'speed': '45.93', 'lane': '2'}","{'number': '193', 'time': 0, 'speed': '48.07', 'lane': '3'}"
+
+"{'number': '194', 'time': 0, 'speed': '51.33', 'lane': '1'}","{'number': '195', 'time': 0, 'speed': '48.01', 'lane': '2'}","{'number': '196', 'time': 0, 'speed': '47.61', 'lane': '3'}"
+
+"{'number': '197', 'time': 0, 'speed': '50.94', 'lane': '1'}","{'number': '198', 'time': 0, 'speed': '54.57', 'lane': '2'}","{'number': '199', 'time': 0, 'speed': '51.11', 'lane': '3'}"
+"{'number': '200', 'time': 0, 'speed': '48.83', 'lane': '1'}","{'number': '201', 'time': 0, 'speed': '56.11', 'lane': '2'}"
+"{'number': '202', 'time': 0, 'speed': '54.21', 'lane': '3'}"
+"{'number': '203', 'time': 0, 'speed': '50.46', 'lane': '2'}"
+"{'number': '204', 'time': 0, 'speed': '50.85', 'lane': '1'}","{'number': '205', 'time': 0, 'speed': '55.07', 'lane': '3'}"
+"{'number': '206', 'time': 0, 'speed': '48.10', 'lane': '1'}","{'number': '207', 'time': 0, 'speed': '50.10', 'lane': '2'}","{'number': '208', 'time': 0, 'speed': '50.92', 'lane': '3'}"
+"{'number': '209', 'time': 0, 'speed': '49.32', 'lane': '2'}"
+
+"{'number': '210', 'time': 0, 'speed': '9.94', 'lane': '4'}"
+"{'number': '211', 'time': 0, 'speed': '49.73', 'lane': '1'}","{'number': '212', 'time': 0, 'speed': '52.23', 'lane': '3'}","{'number': '213', 'time': 0, 'speed': '11.33', 'lane': '5'}"
+"{'number': '214', 'time': 0, 'speed': '51.43', 'lane': '2'}","{'number': '215', 'time': 0, 'speed': '50.56', 'lane': '3'}"
+"{'number': '216', 'time': 0, 'speed': '51.12', 'lane': '1'}","{'number': '217', 'time': 0, 'speed': '50.98', 'lane': '2'}","{'number': '218', 'time': 0, 'speed': '26.21', 'lane': '4'}"
+"{'number': '219', 'time': 0, 'speed': '48.22', 'lane': '1'}","{'number': '220', 'time': 0, 'speed': '48.61', 'lane': '3'}","{'number': '221', 'time': 0, 'speed': '25.12', 'lane': '5'}"
+"{'number': '222', 'time': 0, 'speed': '51.46', 'lane': '2'}","{'number': '223', 'time': 0, 'speed': '48.91', 'lane': '3'}","{'number': '224', 'time': 0, 'speed': '27.94', 'lane': '4'}"
+"{'number': '225', 'time': 0, 'speed': '53.57', 'lane': '2'}","{'number': '226', 'time': 0, 'speed': '31.83', 'lane': '5'}"
+"{'number': '227', 'time': 0, 'speed': '49.45', 'lane': '1'}","{'number': '228', 'time': 0, 'speed': '47.85', 'lane': '3'}"
+
+"{'number': '229', 'time': 0, 'speed': '52.73', 'lane': '1'}","{'number': '230', 'time': 0, 'speed': '51.76', 'lane': '2'}","{'number': '231', 'time': 0, 'speed': '47.50', 'lane': '3'}"
+"{'number': '232', 'time': 0, 'speed': '54.00', 'lane': '1'}","{'number': '233', 'time': 0, 'speed': '51.63', 'lane': '2'}","{'number': '234', 'time': 0, 'speed': '46.71', 'lane': '3'}"
+
+"{'number': '235', 'time': 0, 'speed': '54.10', 'lane': '1'}"
+"{'number': '236', 'time': 0, 'speed': '50.34', 'lane': '2'}"
+"{'number': '237', 'time': 0, 'speed': '52.36', 'lane': '3'}"
+
+"{'number': '238', 'time': 0, 'speed': '51.17', 'lane': '1'}"
+"{'number': '239', 'time': 0, 'speed': '51.06', 'lane': '2'}"
+"{'number': '240', 'time': 0, 'speed': '48.55', 'lane': '1'}","{'number': '241', 'time': 0, 'speed': '48.03', 'lane': '2'}","{'number': '242', 'time': 0, 'speed': '54.21', 'lane': '3'}"
+"{'number': '243', 'time': 0, 'speed': '48.36', 'lane': '1'}","{'number': '244', 'time': 0, 'speed': '53.73', 'lane': '3'}"
+"{'number': '245', 'time': 0, 'speed': '47.94', 'lane': '2'}","{'number': '246', 'time': 0, 'speed': '49.11', 'lane': '3'}"
+
+"{'number': '247', 'time': 0, 'speed': '49.78', 'lane': '1'}","{'number': '248', 'time': 0, 'speed': '49.19', 'lane': '2'}","{'number': '249', 'time': 0, 'speed': '51.97', 'lane': '3'}"
+"{'number': '250', 'time': 0, 'speed': '52.76', 'lane': '1'}"
+
+"{'number': '251', 'time': 0, 'speed': '48.46', 'lane': '1'}","{'number': '252', 'time': 0, 'speed': '48.80', 'lane': '2'}","{'number': '253', 'time': 0, 'speed': '54.41', 'lane': '3'}"
+"{'number': '254', 'time': 0, 'speed': '49.08', 'lane': '2'}","{'number': '255', 'time': 0, 'speed': '54.46', 'lane': '3'}"
+"{'number': '256', 'time': 0, 'speed': '48.52', 'lane': '1'}"
+"{'number': '257', 'time': 0, 'speed': '47.43', 'lane': '1'}","{'number': '258', 'time': 0, 'speed': '47.99', 'lane': '2'}","{'number': '259', 'time': 0, 'speed': '53.49', 'lane': '3'}","{'number': '260', 'time': 0, 'speed': '13.78', 'lane': '4'}","{'number': '261', 'time': 0, 'speed': '10.50', 'lane': '5'}"
+"{'number': '262', 'time': 0, 'speed': '47.23', 'lane': '2'}","{'number': '263', 'time': 0, 'speed': '50.38', 'lane': '3'}"
+"{'number': '264', 'time': 0, 'speed': '46.88', 'lane': '1'}"
+"{'number': '265', 'time': 0, 'speed': '26.17', 'lane': '4'}","{'number': '266', 'time': 0, 'speed': '25.11', 'lane': '5'}"
+"{'number': '267', 'time': 0, 'speed': '46.88', 'lane': '2'}","{'number': '268', 'time': 0, 'speed': '48.33', 'lane': '3'}"
+"{'number': '269', 'time': 0, 'speed': '48.10', 'lane': '1'}"
+"{'number': '270', 'time': 0, 'speed': '51.39', 'lane': '3'}"
+"{'number': '271', 'time': 0, 'speed': '53.91', 'lane': '1'}","{'number': '272', 'time': 0, 'speed': '50.65', 'lane': '2'}"
+"{'number': '273', 'time': 0, 'speed': '53.98', 'lane': '2'}","{'number': '274', 'time': 0, 'speed': '52.94', 'lane': '3'}","{'number': '275', 'time': 0, 'speed': '37.89', 'lane': '5'}"
+
+
+"{'number': '276', 'time': 0, 'speed': '56.34', 'lane': '1'}","{'number': '277', 'time': 0, 'speed': '54.25', 'lane': '3'}"
+
+"{'number': '278', 'time': 0, 'speed': '51.03', 'lane': '2'}"
+
+
+
+
+"{'number': '279', 'time': 0, 'speed': '56.10', 'lane': '1'}","{'number': '280', 'time': 0, 'speed': '48.97', 'lane': '3'}"
+"{'number': '281', 'time': 0, 'speed': '51.14', 'lane': '1'}","{'number': '282', 'time': 0, 'speed': '51.80', 'lane': '2'}"
+"{'number': '283', 'time': 0, 'speed': '48.99', 'lane': '3'}"
+
+
+
+"{'number': '284', 'time': 0, 'speed': '51.44', 'lane': '1'}","{'number': '285', 'time': 0, 'speed': '48.21', 'lane': '2'}"
+"{'number': '286', 'time': 0, 'speed': '52.54', 'lane': '3'}"
+"{'number': '287', 'time': 0, 'speed': '49.81', 'lane': '2'}"
+
+"{'number': '288', 'time': 0, 'speed': '14.19', 'lane': '5'}"
+"{'number': '289', 'time': 0, 'speed': '51.42', 'lane': '1'}","{'number': '290', 'time': 0, 'speed': '48.10', 'lane': '2'}","{'number': '291', 'time': 0, 'speed': '55.88', 'lane': '3'}","{'number': '292', 'time': 0, 'speed': '11.50', 'lane': '4'}"
+"{'number': '293', 'time': 0, 'speed': '51.50', 'lane': '1'}","{'number': '294', 'time': 0, 'speed': '55.73', 'lane': '3'}"
+"{'number': '295', 'time': 0, 'speed': '26.48', 'lane': '4'}","{'number': '296', 'time': 0, 'speed': '30.85', 'lane': '5'}"
+"{'number': '297', 'time': 0, 'speed': '49.37', 'lane': '1'}","{'number': '298', 'time': 0, 'speed': '48.42', 'lane': '2'}","{'number': '299', 'time': 0, 'speed': '38.60', 'lane': '5'}"
+"{'number': '300', 'time': 0, 'speed': '31.68', 'lane': '4'}"
+"{'number': '301', 'time': 0, 'speed': '51.26', 'lane': '1'}","{'number': '302', 'time': 0, 'speed': '50.07', 'lane': '2'}","{'number': '303', 'time': 0, 'speed': '55.13', 'lane': '3'}","{'number': '304', 'time': 0, 'speed': '39.02', 'lane': '5'}"
+"{'number': '305', 'time': 0, 'speed': '50.33', 'lane': '2'}","{'number': '306', 'time': 0, 'speed': '54.03', 'lane': '3'}"
+"{'number': '307', 'time': 0, 'speed': '53.32', 'lane': '1'}"
+"{'number': '308', 'time': 0, 'speed': '49.96', 'lane': '1'}","{'number': '309', 'time': 0, 'speed': '49.25', 'lane': '2'}","{'number': '310', 'time': 0, 'speed': '52.78', 'lane': '3'}","{'number': '311', 'time': 0, 'speed': '39.99', 'lane': '4'}","{'number': '312', 'time': 0, 'speed': '42.37', 'lane': '5'}"
+"{'number': '313', 'time': 0, 'speed': '48.81', 'lane': '2'}","{'number': '314', 'time': 0, 'speed': '50.38', 'lane': '3'}"
+
+
+"{'number': '315', 'time': 0, 'speed': '48.01', 'lane': '1'}"
+"{'number': '316', 'time': 0, 'speed': '47.81', 'lane': '1'}","{'number': '317', 'time': 0, 'speed': '50.34', 'lane': '2'}","{'number': '318', 'time': 0, 'speed': '48.24', 'lane': '3'}"
+"{'number': '319', 'time': 0, 'speed': '52.00', 'lane': '2'}","{'number': '320', 'time': 0, 'speed': '48.15', 'lane': '3'}"
+"{'number': '321', 'time': 0, 'speed': '46.76', 'lane': '1'}"
+"{'number': '322', 'time': 0, 'speed': '52.08', 'lane': '2'}"
+
+
+"{'number': '323', 'time': 0, 'speed': '51.71', 'lane': '1'}","{'number': '324', 'time': 0, 'speed': '45.56', 'lane': '2'}","{'number': '325', 'time': 0, 'speed': '49.88', 'lane': '3'}"
+"{'number': '326', 'time': 0, 'speed': '53.70', 'lane': '1'}","{'number': '327', 'time': 0, 'speed': '51.32', 'lane': '3'}"
+"{'number': '328', 'time': 0, 'speed': '24.79', 'lane': '2'}"
+"{'number': '329', 'time': 0, 'speed': '54.88', 'lane': '1'}","{'number': '330', 'time': 0, 'speed': '50.45', 'lane': '3'}"
+"{'number': '331', 'time': 0, 'speed': '48.67', 'lane': '1'}","{'number': '332', 'time': 0, 'speed': '28.63', 'lane': '2'}","{'number': '333', 'time': 0, 'speed': '49.39', 'lane': '3'}"
+
+"{'number': '334', 'time': 0, 'speed': '50.16', 'lane': '2'}"
+"{'number': '335', 'time': 0, 'speed': '48.64', 'lane': '3'}"
+"{'number': '336', 'time': 0, 'speed': '11.40', 'lane': '5'}"
+"{'number': '337', 'time': 0, 'speed': '54.11', 'lane': '1'}","{'number': '338', 'time': 0, 'speed': '10.82', 'lane': '4'}"
+"{'number': '339', 'time': 0, 'speed': '51.81', 'lane': '2'}"
+"{'number': '340', 'time': 0, 'speed': '50.93', 'lane': '3'}","{'number': '341', 'time': 0, 'speed': '25.07', 'lane': '4'}","{'number': '342', 'time': 0, 'speed': '28.69', 'lane': '5'}"
+"{'number': '343', 'time': 0, 'speed': '51.88', 'lane': '1'}","{'number': '344', 'time': 0, 'speed': '53.32', 'lane': '2'}"
+"{'number': '345', 'time': 0, 'speed': '52.26', 'lane': '3'}","{'number': '346', 'time': 0, 'speed': '36.52', 'lane': '5'}"
+"{'number': '347', 'time': 0, 'speed': '52.27', 'lane': '1'}","{'number': '348', 'time': 0, 'speed': '29.52', 'lane': '4'}","{'number': '349', 'time': 0, 'speed': '36.80', 'lane': '5'}"
+"{'number': '350', 'time': 0, 'speed': '50.04', 'lane': '2'}","{'number': '351', 'time': 0, 'speed': '52.02', 'lane': '3'}"
+"{'number': '352', 'time': 0, 'speed': '50.32', 'lane': '1'}","{'number': '353', 'time': 0, 'speed': '30.69', 'lane': '4'}","{'number': '354', 'time': 0, 'speed': '37.98', 'lane': '5'}"
+"{'number': '355', 'time': 0, 'speed': '50.12', 'lane': '1'}","{'number': '356', 'time': 0, 'speed': '49.73', 'lane': '2'}","{'number': '357', 'time': 0, 'speed': '49.05', 'lane': '3'}"
+"{'number': '358', 'time': 0, 'speed': '48.98', 'lane': '2'}","{'number': '359', 'time': 0, 'speed': '49.21', 'lane': '3'}","{'number': '360', 'time': 0, 'speed': '34.42', 'lane': '4'}","{'number': '361', 'time': 0, 'speed': '40.11', 'lane': '5'}"
+"{'number': '362', 'time': 0, 'speed': '50.85', 'lane': '1'}","{'number': '363', 'time': 0, 'speed': '43.51', 'lane': '5'}"
+
+"{'number': '364', 'time': 0, 'speed': '49.64', 'lane': '1'}","{'number': '365', 'time': 0, 'speed': '50.28', 'lane': '2'}","{'number': '366', 'time': 0, 'speed': '49.25', 'lane': '3'}"
+"{'number': '367', 'time': 0, 'speed': '49.25', 'lane': '2'}"
+"{'number': '368', 'time': 0, 'speed': '49.76', 'lane': '1'}","{'number': '369', 'time': 0, 'speed': '51.88', 'lane': '3'}"
+"{'number': '370', 'time': 0, 'speed': '49.45', 'lane': '2'}","{'number': '371', 'time': 0, 'speed': '50.87', 'lane': '3'}"
+"{'number': '372', 'time': 0, 'speed': '48.85', 'lane': '1'}","{'number': '373', 'time': 0, 'speed': '49.67', 'lane': '2'}"
+"{'number': '374', 'time': 0, 'speed': '49.47', 'lane': '1'}","{'number': '375', 'time': 0, 'speed': '49.78', 'lane': '3'}"
+"{'number': '376', 'time': 0, 'speed': '50.98', 'lane': '2'}","{'number': '377', 'time': 0, 'speed': '48.76', 'lane': '3'}"
+"{'number': '378', 'time': 0, 'speed': '48.25', 'lane': '1'}"
+"{'number': '379', 'time': 0, 'speed': '51.52', 'lane': '2'}","{'number': '380', 'time': 0, 'speed': '49.56', 'lane': '3'}"
+"{'number': '381', 'time': 0, 'speed': '50.44', 'lane': '1'}"
+
+
+"{'number': '382', 'time': 0, 'speed': '49.63', 'lane': '1'}","{'number': '383', 'time': 0, 'speed': '50.57', 'lane': '2'}","{'number': '384', 'time': 0, 'speed': '48.61', 'lane': '3'}"
+"{'number': '385', 'time': 0, 'speed': '50.24', 'lane': '1'}"
+"{'number': '386', 'time': 0, 'speed': '51.33', 'lane': '2'}"
+"{'number': '387', 'time': 0, 'speed': '49.95', 'lane': '3'}","{'number': '388', 'time': 0, 'speed': '10.31', 'lane': '4'}"
+"{'number': '389', 'time': 0, 'speed': '50.06', 'lane': '1'}","{'number': '390', 'time': 0, 'speed': '9.80', 'lane': '5'}"
+
+"{'number': '391', 'time': 0, 'speed': '51.78', 'lane': '2'}","{'number': '392', 'time': 0, 'speed': '22.73', 'lane': '4'}","{'number': '393', 'time': 0, 'speed': '24.79', 'lane': '5'}"
+
+
+
+"{'number': '394', 'time': 0, 'speed': '51.51', 'lane': '3'}"
+"{'number': '395', 'time': 0, 'speed': '35.54', 'lane': '5'}"
+"{'number': '396', 'time': 0, 'speed': '48.01', 'lane': '1'}"
+"{'number': '397', 'time': 0, 'speed': '51.59', 'lane': '2'}"
+"{'number': '398', 'time': 0, 'speed': '48.16', 'lane': '1'}","{'number': '399', 'time': 0, 'speed': '50.32', 'lane': '2'}","{'number': '400', 'time': 0, 'speed': '52.24', 'lane': '3'}"
+
+"{'number': '401', 'time': 0, 'speed': '50.61', 'lane': '1'}","{'number': '402', 'time': 0, 'speed': '52.38', 'lane': '3'}"
+
+"{'number': '403', 'time': 0, 'speed': '54.06', 'lane': '1'}","{'number': '404', 'time': 0, 'speed': '48.35', 'lane': '2'}","{'number': '405', 'time': 0, 'speed': '52.69', 'lane': '3'}"
+"{'number': '406', 'time': 0, 'speed': '48.49', 'lane': '2'}"
+"{'number': '407', 'time': 0, 'speed': '52.13', 'lane': '1'}","{'number': '408', 'time': 0, 'speed': '51.26', 'lane': '3'}"
+
+"{'number': '409', 'time': 0, 'speed': '48.28', 'lane': '2'}","{'number': '410', 'time': 0, 'speed': '49.53', 'lane': '3'}"
+"{'number': '411', 'time': 0, 'speed': '53.29', 'lane': '1'}"
+"{'number': '412', 'time': 0, 'speed': '50.84', 'lane': '1'}","{'number': '413', 'time': 0, 'speed': '49.72', 'lane': '2'}","{'number': '414', 'time': 0, 'speed': '49.66', 'lane': '3'}"
+"{'number': '415', 'time': 0, 'speed': '48.65', 'lane': '2'}"
+"{'number': '416', 'time': 0, 'speed': '51.94', 'lane': '1'}","{'number': '417', 'time': 0, 'speed': '47.82', 'lane': '2'}","{'number': '418', 'time': 0, 'speed': '49.41', 'lane': '3'}"
+"{'number': '419', 'time': 0, 'speed': '51.52', 'lane': '1'}","{'number': '420', 'time': 0, 'speed': '49.68', 'lane': '3'}"
+"{'number': '421', 'time': 0, 'speed': '47.37', 'lane': '2'}"
+"{'number': '422', 'time': 0, 'speed': '51.31', 'lane': '1'}","{'number': '423', 'time': 0, 'speed': '49.38', 'lane': '3'}"
+"{'number': '424', 'time': 0, 'speed': '46.78', 'lane': '2'}"
+"{'number': '425', 'time': 0, 'speed': '50.88', 'lane': '1'}","{'number': '426', 'time': 0, 'speed': '47.96', 'lane': '2'}","{'number': '427', 'time': 0, 'speed': '48.91', 'lane': '3'}","{'number': '428', 'time': 0, 'speed': '11.02', 'lane': '4'}"
+"{'number': '429', 'time': 0, 'speed': '9.85', 'lane': '5'}"
+
+"{'number': '430', 'time': 0, 'speed': '31.40', 'lane': '4'}"
+"{'number': '431', 'time': 0, 'speed': '24.34', 'lane': '5'}"
+"{'number': '432', 'time': 0, 'speed': '52.55', 'lane': '1'}","{'number': '433', 'time': 0, 'speed': '47.71', 'lane': '2'}","{'number': '434', 'time': 0, 'speed': '50.18', 'lane': '3'}","{'number': '435', 'time': 0, 'speed': '34.25', 'lane': '4'}"
+"{'number': '436', 'time': 0, 'speed': '51.04', 'lane': '1'}"
+"{'number': '437', 'time': 0, 'speed': '31.99', 'lane': '5'}"
+"{'number': '438', 'time': 0, 'speed': '51.85', 'lane': '1'}","{'number': '439', 'time': 0, 'speed': '48.95', 'lane': '2'}","{'number': '440', 'time': 0, 'speed': '52.46', 'lane': '3'}","{'number': '441', 'time': 0, 'speed': '34.07', 'lane': '4'}"
+"{'number': '442', 'time': 0, 'speed': '53.54', 'lane': '3'}","{'number': '443', 'time': 0, 'speed': '34.27', 'lane': '4'}","{'number': '444', 'time': 0, 'speed': '32.19', 'lane': '5'}"
+"{'number': '445', 'time': 0, 'speed': '53.02', 'lane': '1'}","{'number': '446', 'time': 0, 'speed': '51.00', 'lane': '2'}","{'number': '447', 'time': 0, 'speed': '52.67', 'lane': '3'}"
+"{'number': '448', 'time': 0, 'speed': '50.90', 'lane': '2'}","{'number': '449', 'time': 0, 'speed': '31.20', 'lane': '4'}","{'number': '450', 'time': 0, 'speed': '34.98', 'lane': '5'}"
+
+"{'number': '451', 'time': 0, 'speed': '53.51', 'lane': '1'}","{'number': '452', 'time': 0, 'speed': '51.73', 'lane': '3'}","{'number': '453', 'time': 0, 'speed': '37.46', 'lane': '5'}"
+"{'number': '454', 'time': 0, 'speed': '49.34', 'lane': '2'}"
+"{'number': '455', 'time': 0, 'speed': '57.04', 'lane': '1'}"
+"{'number': '456', 'time': 0, 'speed': '50.73', 'lane': '2'}","{'number': '457', 'time': 0, 'speed': '50.95', 'lane': '3'}"
+"{'number': '458', 'time': 0, 'speed': '52.09', 'lane': '1'}"
+"{'number': '459', 'time': 0, 'speed': '51.59', 'lane': '1'}","{'number': '460', 'time': 0, 'speed': '51.82', 'lane': '2'}","{'number': '461', 'time': 0, 'speed': '50.90', 'lane': '3'}"
+"{'number': '462', 'time': 0, 'speed': '50.93', 'lane': '2'}","{'number': '463', 'time': 0, 'speed': '49.92', 'lane': '3'}"
+"{'number': '464', 'time': 0, 'speed': '50.59', 'lane': '1'}"
+"{'number': '465', 'time': 0, 'speed': '49.57', 'lane': '1'}","{'number': '466', 'time': 0, 'speed': '49.89', 'lane': '2'}","{'number': '467', 'time': 0, 'speed': '49.18', 'lane': '3'}"
+"{'number': '468', 'time': 0, 'speed': '49.00', 'lane': '2'}","{'number': '469', 'time': 0, 'speed': '48.55', 'lane': '3'}"
+"{'number': '470', 'time': 0, 'speed': '49.70', 'lane': '1'}"
+
+
+
+"{'number': '471', 'time': 0, 'speed': '48.83', 'lane': '2'}"
+"{'number': '472', 'time': 0, 'speed': '53.38', 'lane': '1'}","{'number': '473', 'time': 0, 'speed': '48.59', 'lane': '2'}","{'number': '474', 'time': 0, 'speed': '52.71', 'lane': '3'}","{'number': '475', 'time': 0, 'speed': '12.44', 'lane': '4'}"
+"{'number': '476', 'time': 0, 'speed': '48.47', 'lane': '1'}","{'number': '477', 'time': 0, 'speed': '53.59', 'lane': '3'}","{'number': '478', 'time': 0, 'speed': '9.24', 'lane': '5'}"
+"{'number': '479', 'time': 0, 'speed': '48.12', 'lane': '2'}","{'number': '480', 'time': 0, 'speed': '53.13', 'lane': '3'}"
+"{'number': '481', 'time': 0, 'speed': '48.80', 'lane': '1'}","{'number': '482', 'time': 0, 'speed': '46.89', 'lane': '2'}","{'number': '483', 'time': 0, 'speed': '22.64', 'lane': '4'}"
+"{'number': '484', 'time': 0, 'speed': '47.94', 'lane': '1'}","{'number': '485', 'time': 0, 'speed': '50.51', 'lane': '3'}","{'number': '486', 'time': 0, 'speed': '20.23', 'lane': '5'}"
+"{'number': '487', 'time': 0, 'speed': '46.19', 'lane': '2'}","{'number': '488', 'time': 0, 'speed': '48.06', 'lane': '3'}","{'number': '489', 'time': 0, 'speed': '24.85', 'lane': '4'}"
+"{'number': '490', 'time': 0, 'speed': '47.18', 'lane': '1'}","{'number': '491', 'time': 0, 'speed': '45.22', 'lane': '2'}"
+"{'number': '492', 'time': 0, 'speed': '46.71', 'lane': '1'}","{'number': '493', 'time': 0, 'speed': '48.33', 'lane': '3'}","{'number': '494', 'time': 0, 'speed': '26.11', 'lane': '4'}","{'number': '495', 'time': 0, 'speed': '21.63', 'lane': '5'}"
+"{'number': '496', 'time': 0, 'speed': '44.23', 'lane': '2'}","{'number': '497', 'time': 0, 'speed': '47.54', 'lane': '3'}"
+"{'number': '498', 'time': 0, 'speed': '45.60', 'lane': '1'}","{'number': '499', 'time': 0, 'speed': '43.23', 'lane': '2'}","{'number': '500', 'time': 0, 'speed': '26.64', 'lane': '4'}","{'number': '501', 'time': 0, 'speed': '23.99', 'lane': '5'}"
+"{'number': '502', 'time': 0, 'speed': '45.09', 'lane': '1'}","{'number': '503', 'time': 0, 'speed': '49.13', 'lane': '3'}"
+"{'number': '504', 'time': 0, 'speed': '42.71', 'lane': '2'}","{'number': '505', 'time': 0, 'speed': '49.61', 'lane': '3'}","{'number': '506', 'time': 0, 'speed': '22.52', 'lane': '4'}"
+
+
+"{'number': '507', 'time': 0, 'speed': '46.97', 'lane': '1'}"
+"{'number': '508', 'time': 0, 'speed': '48.95', 'lane': '3'}"
+"{'number': '509', 'time': 0, 'speed': '49.65', 'lane': '2'}"
+"{'number': '510', 'time': 0, 'speed': '50.86', 'lane': '1'}"
+
+
+
+"{'number': '511', 'time': 0, 'speed': '52.55', 'lane': '1'}","{'number': '512', 'time': 0, 'speed': '54.32', 'lane': '2'}","{'number': '513', 'time': 0, 'speed': '52.35', 'lane': '3'}"
+"{'number': '514', 'time': 0, 'speed': '50.44', 'lane': '2'}","{'number': '515', 'time': 0, 'speed': '50.96', 'lane': '3'}"
+"{'number': '516', 'time': 0, 'speed': '53.58', 'lane': '1'}"
+"{'number': '517', 'time': 0, 'speed': '52.65', 'lane': '1'}","{'number': '518', 'time': 0, 'speed': '50.87', 'lane': '2'}","{'number': '519', 'time': 0, 'speed': '50.94', 'lane': '3'}"
+"{'number': '520', 'time': 0, 'speed': '51.10', 'lane': '2'}","{'number': '521', 'time': 0, 'speed': '50.26', 'lane': '3'}"
+"{'number': '522', 'time': 0, 'speed': '51.44', 'lane': '1'}","{'number': '523', 'time': 0, 'speed': '49.99', 'lane': '3'}"
+"{'number': '524', 'time': 0, 'speed': '51.51', 'lane': '1'}","{'number': '525', 'time': 0, 'speed': '50.46', 'lane': '2'}"
+"{'number': '526', 'time': 0, 'speed': '49.43', 'lane': '2'}","{'number': '527', 'time': 0, 'speed': '49.21', 'lane': '3'}","{'number': '528', 'time': 0, 'speed': '9.13', 'lane': '4'}","{'number': '529', 'time': 0, 'speed': '10.00', 'lane': '5'}"
+"{'number': '530', 'time': 0, 'speed': '51.01', 'lane': '1'}"
+"{'number': '531', 'time': 0, 'speed': '52.07', 'lane': '1'}","{'number': '532', 'time': 0, 'speed': '48.67', 'lane': '2'}","{'number': '533', 'time': 0, 'speed': '51.26', 'lane': '3'}"
+"{'number': '534', 'time': 0, 'speed': '48.00', 'lane': '2'}","{'number': '535', 'time': 0, 'speed': '50.85', 'lane': '3'}","{'number': '536', 'time': 0, 'speed': '25.84', 'lane': '5'}"
+"{'number': '537', 'time': 0, 'speed': '51.30', 'lane': '1'}"
+"{'number': '538', 'time': 0, 'speed': '50.89', 'lane': '1'}","{'number': '539', 'time': 0, 'speed': '47.10', 'lane': '2'}","{'number': '540', 'time': 0, 'speed': '49.95', 'lane': '3'}"
+"{'number': '541', 'time': 0, 'speed': '17.82', 'lane': '4'}"
+"{'number': '542', 'time': 0, 'speed': '48.23', 'lane': '2'}","{'number': '543', 'time': 0, 'speed': '50.24', 'lane': '3'}","{'number': '544', 'time': 0, 'speed': '23.78', 'lane': '5'}"
+"{'number': '545', 'time': 0, 'speed': '54.40', 'lane': '1'}","{'number': '546', 'time': 0, 'speed': '50.72', 'lane': '3'}"
+
+
+"{'number': '547', 'time': 0, 'speed': '51.72', 'lane': '2'}"
+"{'number': '548', 'time': 0, 'speed': '51.87', 'lane': '1'}"
+"{'number': '549', 'time': 0, 'speed': '49.06', 'lane': '3'}"
+"{'number': '550', 'time': 0, 'speed': '52.92', 'lane': '1'}","{'number': '551', 'time': 0, 'speed': '52.75', 'lane': '2'}"
+"{'number': '552', 'time': 0, 'speed': '53.98', 'lane': '2'}","{'number': '553', 'time': 0, 'speed': '50.78', 'lane': '3'}"
+
+
+"{'number': '554', 'time': 0, 'speed': '51.97', 'lane': '1'}","{'number': '555', 'time': 0, 'speed': '53.49', 'lane': '3'}"
+"{'number': '556', 'time': 0, 'speed': '52.05', 'lane': '2'}"
+"{'number': '557', 'time': 0, 'speed': '51.66', 'lane': '1'}","{'number': '558', 'time': 0, 'speed': '52.26', 'lane': '3'}"
+
+"{'number': '559', 'time': 0, 'speed': '52.45', 'lane': '1'}","{'number': '560', 'time': 0, 'speed': '54.27', 'lane': '2'}","{'number': '561', 'time': 0, 'speed': '52.27', 'lane': '3'}"
